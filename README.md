@@ -20,3 +20,5 @@ Run the script with the desired emoji and output filename:
 ```python emoji_icon_generator.py "😃" "smiley-icon.png"```
 
 This will create an icon with the smiley emoji and save it as "smiley-icon.png".
+
+This repo was written entirely by ChatGPT (except this line).
